@@ -1,0 +1,5 @@
+D:\users\julia\visual studio 2015\Projects\NumberChain\NumberChain\bin\Release\NumberChain.exe.config
+D:\users\julia\visual studio 2015\Projects\NumberChain\NumberChain\bin\Release\NumberChain.exe
+D:\users\julia\visual studio 2015\Projects\NumberChain\NumberChain\bin\Release\NumberChain.pdb
+D:\users\julia\visual studio 2015\Projects\NumberChain\NumberChain\obj\Release\NumberChain.exe
+D:\users\julia\visual studio 2015\Projects\NumberChain\NumberChain\obj\Release\NumberChain.pdb
